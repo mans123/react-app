@@ -1,0 +1,32 @@
+{
+  "name": "react-app",
+  "version": "1.0.0",
+  "description": "basic react app using parcel",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mans123/react-app.git"
+  },
+  "keywords": [
+    "react",
+    "parcel"
+  ],
+  "author": "Mansoor",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mans123/react-app/issues"
+  },
+  "homepage": "https://github.com/mans123/react-app#readme",
+  "devDependencies": {
+    "parcel": "^2.12.0",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
