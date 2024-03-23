@@ -13,7 +13,7 @@ const AppLayout = () => {
   return (
     <>
       <Header />
-      <Search />
+      {/* <Search /> */}
       <RestaurantContainer />
       <Footer />
     </>
